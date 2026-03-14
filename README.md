@@ -88,7 +88,7 @@ Users can bookmark important legal changes to keep track of them.
 
 ```
 cd backend
-pip install -r requirements/base.txt
+pip install -r requirements/requirements.txt
 uvicorn src.api.api:app --reload
 ```
 
