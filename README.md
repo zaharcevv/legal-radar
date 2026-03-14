@@ -1,6 +1,6 @@
-# AIxPravo
+# Legal Radar
 
-**AIxPravo** is an AI-powered legal change tracker focused on **Slovenian and EU legislation**.
+**Legal Radar** is an AI-powered legal change tracker focused on **Slovenian and EU legislation**.
 The system automatically collects legal updates, processes them using Large Language Models (LLMs), and presents **clear summaries and structured insights** to help users quickly understand important changes in the law.
 
 ---
@@ -9,7 +9,7 @@ The system automatically collects legal updates, processes them using Large Lang
 
 Monitoring legal updates can be difficult because new regulations, amendments, and decisions are published frequently and often in complex legal language.
 
-AIxPravo solves this problem by combining:
+Legal Radar solves this problem by combining:
 
 * Automated **web scraping of legal sources**
 * **AI summarization** of legal texts
@@ -113,4 +113,4 @@ npm run dev
 
 ## Authors
 
-Developed by the AIxPravo team.
+Developed by the Legal Radar team.
