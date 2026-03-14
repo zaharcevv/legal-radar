@@ -89,7 +89,7 @@ Users can bookmark important legal changes to keep track of them.
 ```
 cd backend
 pip install -r requirements/base.txt
-python src/api/api.py
+uvicorn src.api.api:app --reload
 ```
 
 ### Frontend
